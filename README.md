@@ -1,6 +1,6 @@
 <h1>Bird Adoption with Bento Grid layout</h1>
 
-<a href="https://eabishen.github.io/bird_adopt/">Live Website</a>
+<a target="_blank" href="https://eabishen.github.io/bird_adopt/">Live Website</a>
 
 <h6>Techniques used:</h6>
 <ul>
